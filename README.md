@@ -47,6 +47,7 @@ BROADCAST	Can send data to all devices
 MULTICAST	Can send data to multiple devices
 eth0	Primary network interface
 
+ChatGPT.png<img width="1220" height="2712" alt="1000043478" src="https://github.com/user-attachments/assets/c651b2f7-06e3-4f8c-83c3-643df66dd796" />
 
 
 ---
